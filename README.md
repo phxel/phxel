@@ -1,18 +1,11 @@
-## the name sunflowerField was taken, sadly
+### the name sunflowerField was taken so i had to make due
 
-i'm a developer who enjoys making things work (most of the time), breaking them (usually unintentionally), and then fixing them again (sometimes by accident). i dabble in go, occasionally wrestle with rust, and occasionally wonder what i've gotten myself into.
+i’m a developer who enjoys making things work, breaking them, and then figuring out how to fix them again. i primarily work with **go** and occasionally take a detour into **java** or **rust** if i feel fancy.
 
-<!--
-**sunfIowerField/sunfIowerField** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### a few things about me:
+- **go enthusiast** – because life is too short for complicated package management.
+- i make things, break things, and hope it all adds up in the end.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### in my spare time:
+- i ponder the nature of reality and meaning, often while troubleshooting code.
+- i sometimes wonder why something doesn't work five minutes after i've fixed it.
