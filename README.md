@@ -1,5 +1,7 @@
 ## the name sunflowerField was taken, sadly
 
+i'm a developer who enjoys making things work (most of the time), breaking them (usually unintentionally), and then fixing them again (sometimes by accident). i dabble in go, occasionally wrestle with rust, and occasionally wonder what i've gotten myself into.
+
 <!--
 **sunfIowerField/sunfIowerField** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
